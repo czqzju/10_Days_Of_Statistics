@@ -1,101 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a52918d-f1cb-4353-a9ed-368d13a7a458" name="Default Changelist" comment="" />
+    <list default="true" id="2a52918d-f1cb-4353-a9ed-368d13a7a458" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/10_Days_of_Statistics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/10_Days_of_Statistics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="120444537">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1295" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1295" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day4/Binomial_Distribution_II.py">
+        <entry file="file://$PROJECT_DIR$/day7/Pearson_Correlation_Coefficient_I.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day4/Geometric_Distribution_I.py">
+        <entry file="file://$PROJECT_DIR$/day7/Spearmans_Rank_Correlation_Coefficient.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day4/Geometric_Distribution_II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day5/Poisson_Distribution_I.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day5/Poisson_Distribution_II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day5/Normal_Distribution_I.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day5/Normal_Distribution_II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day6/The_Central_Limit_Theorem_I.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day6/The_Central_Limit _Theorem_II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="36" selection-end-line="9" selection-end-column="36" />
+            <state>
+              <caret selection-end-line="18" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day6/The_Central_Limit_Theorem_III.py">
+        <entry file="file://$PROJECT_DIR$/day8/Least_Square_Regression_Line.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" selection-end-line="18" />
+            <state relative-caret-position="361">
+              <caret line="19" column="10" lean-forward="true" selection-end-line="19" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -133,6 +105,9 @@
         <option value="$PROJECT_DIR$/day6/The_Central_Limit_Theorem_I.py" />
         <option value="$PROJECT_DIR$/day6/The_Central_Limit _Theorem_II.py" />
         <option value="$PROJECT_DIR$/day6/The_Central_Limit_Theorem_III.py" />
+        <option value="$PROJECT_DIR$/day7/Pearson_Correlation_Coefficient_I.py" />
+        <option value="$PROJECT_DIR$/day7/Spearmans_Rank_Correlation_Coefficient.py" />
+        <option value="$PROJECT_DIR$/day8/Least_Square_Regression_Line.py" />
       </list>
     </option>
   </component>
@@ -155,13 +130,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="10_Days_Of_Statistics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="10_Days_Of_Statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="10_Days_of_Statistics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10_Days_of_Statistics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="10_Days_Of_Statistics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="10_Days_Of_Statistics" type="462c0819:PsiDirectoryNode" />
-              <item name="day6" type="462c0819:PsiDirectoryNode" />
+              <item name="10_Days_of_Statistics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10_Days_of_Statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="day8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -172,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flask" />
+    <property name="last_opened_file_path" value="D:/nimei" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -193,8 +168,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.The_Central_Limit_Theorem_III">
-    <configuration name="Normal_Distribution_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Least_Square_Regression_Line">
+    <configuration name="Least_Square_Regression_Line" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="10_Days_of_Statistics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,12 +177,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day5/Normal_Distribution_II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day8/Least_Square_Regression_Line.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pearson_Correlation_Coefficient_I" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_Days_of_Statistics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/Pearson_Correlation_Coefficient_I.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Spearmans_Rank_Correlation_Coefficient" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_Days_of_Statistics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/Spearmans_Rank_Correlation_Coefficient.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,28 +254,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="The_Central_Limit_Theorem_I" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="10_Days_of_Statistics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day6/The_Central_Limit_Theorem_I.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="The_Central_Limit_Theorem_III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="10_Days_of_Statistics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,42 +276,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="10_Days_of_Statistics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day5/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.Normal_Distribution_II" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.The_Central_Limit_Theorem_I" />
       <item itemvalue="Python.The_Central_Limit _Theorem_II" />
       <item itemvalue="Python.The_Central_Limit_Theorem_III" />
+      <item itemvalue="Python.Pearson_Correlation_Coefficient_I" />
+      <item itemvalue="Python.Spearmans_Rank_Correlation_Coefficient" />
+      <item itemvalue="Python.Least_Square_Regression_Line" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Least_Square_Regression_Line" />
+        <item itemvalue="Python.Spearmans_Rank_Correlation_Coefficient" />
+        <item itemvalue="Python.Pearson_Correlation_Coefficient_I" />
         <item itemvalue="Python.The_Central_Limit_Theorem_III" />
         <item itemvalue="Python.The_Central_Limit _Theorem_II" />
-        <item itemvalue="Python.The_Central_Limit_Theorem_I" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.Normal_Distribution_II" />
       </list>
     </recent_temporary>
   </component>
@@ -343,14 +315,14 @@
     <option name="totallyTimeSpent" value="12332000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2700081" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26975763" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32790446" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -370,6 +342,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -409,82 +384,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day4/Binomial_Distribution_I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/Binomial_Distribution_I.py" />
     <entry file="file://$PROJECT_DIR$/day5/test.py" />
     <entry file="file://$PROJECT_DIR$/lib/add.py" />
-    <entry file="file://$PROJECT_DIR$/day4/Binomial_Distribution_II.py">
+    <entry file="file://$PROJECT_DIR$/day4/Binomial_Distribution_II.py" />
+    <entry file="file://$PROJECT_DIR$/day4/Geometric_Distribution_I.py" />
+    <entry file="file://$PROJECT_DIR$/day4/Geometric_Distribution_II.py" />
+    <entry file="file://$PROJECT_DIR$/day5/Poisson_Distribution_I.py" />
+    <entry file="file://$PROJECT_DIR$/day5/Poisson_Distribution_II.py" />
+    <entry file="file://$PROJECT_DIR$/day5/Normal_Distribution_I.py" />
+    <entry file="file://$PROJECT_DIR$/day5/Normal_Distribution_II.py" />
+    <entry file="file://$PROJECT_DIR$/day6/The_Central_Limit_Theorem_I.py" />
+    <entry file="file://$PROJECT_DIR$/day6/The_Central_Limit _Theorem_II.py" />
+    <entry file="file://$PROJECT_DIR$/day6/The_Central_Limit_Theorem_III.py" />
+    <entry file="file://$PROJECT_DIR$/day7/Pearson_Correlation_Coefficient_I.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day4/Geometric_Distribution_I.py">
+    <entry file="file://$PROJECT_DIR$/day7/Spearmans_Rank_Correlation_Coefficient.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        <state>
+          <caret selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day4/Geometric_Distribution_II.py">
+    <entry file="file://$PROJECT_DIR$/day8/Least_Square_Regression_Line.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5/Poisson_Distribution_I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5/Poisson_Distribution_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5/Normal_Distribution_I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5/Normal_Distribution_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day6/The_Central_Limit_Theorem_I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day6/The_Central_Limit _Theorem_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day6/The_Central_Limit_Theorem_III.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-end-line="18" />
+        <state relative-caret-position="361">
+          <caret line="19" column="10" lean-forward="true" selection-end-line="19" selection-end-column="10" />
         </state>
       </provider>
     </entry>
